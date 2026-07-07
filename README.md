@@ -161,6 +161,13 @@ Repeat Until Exit
 ```
 
 ---
+## 🎥 Project Demonstration
+  <a href="YOUR_VIDEO_LINK">
+    <img src="https://img.shields.io/badge/🎬%20Project%20Video-success?style=for-the-badge">
+  </a>
+</p>
+---
+
 ## Why This Project Is Useful
 
 This project is a good beginner-level Python program for learning:
@@ -179,29 +186,9 @@ This project is a good beginner-level Python program for learning:
 - Store marks for each subject.
 - Add a better GUI version.
 
-# 📷 Screenshots
+# 📷 Screenshots of Output
 
-Place your screenshots inside the **screenshots** folder.
+<img width="853" height="445" alt="image" src="https://github.com/user-attachments/assets/59f2695b-b67a-485d-8d1e-fa1d7e819595" />
+<img width="884" height="493" alt="image" src="https://github.com/user-attachments/assets/c52873c3-d977-47b8-a29d-c14d8b52bfa6" />
 
-```
-screenshots/
-
-menu.png
-
-add_student.png
-
-display_student.png
-```
-
-Example:
-
-```markdown
-![Menu](screenshots/menu.png)
-
-![Add Student](screenshots/add_student.png)
-
-![Display Students](screenshots/display_student.png)
-```
-
----
 
