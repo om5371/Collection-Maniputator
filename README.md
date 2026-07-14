@@ -188,7 +188,16 @@ This project is a good beginner-level Python program for learning:
 
 # 📷 Screenshots of Output
 
-<img width="853" height="445" alt="image" src="https://github.com/user-attachments/assets/59f2695b-b67a-485d-8d1e-fa1d7e819595" />
-<img width="884" height="493" alt="image" src="https://github.com/user-attachments/assets/c52873c3-d977-47b8-a29d-c14d8b52bfa6" />
+<img width="566" height="472" alt="image" src="https://github.com/user-attachments/assets/b20bdb25-2e34-4ab6-bab1-5adab0dcf1f8" /> <br>
+<img width="402" height="275" alt="image" src="https://github.com/user-attachments/assets/1211e74a-08be-45ac-a2b3-a0276c129fa1" /><br>
+<img width="427" height="94" alt="image" src="https://github.com/user-attachments/assets/9bf4d0d5-5748-4578-9e9f-e7f8c0c09b5f" /><br>
+<img width="422" height="297" alt="image" src="https://github.com/user-attachments/assets/72377415-768d-4cae-bbb6-0d38b9407e05" /><br>
+<img width="402" height="385" alt="image" src="https://github.com/user-attachments/assets/ea14538f-0795-49a9-9415-569f199eeb00" /><br>
+
+
+
+
+
+
 
 
